@@ -58,4 +58,4 @@ Feedback ist immer willkommen! Fork das Projekt, erstelle einen Branch und schic
 ## Kontakt
 
 Für Fragen oder Anfragen:  
-📧 `meine.email@example.com`
+📧 `bruno.tesseraux@gmx.de`
